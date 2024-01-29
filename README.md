@@ -1,4 +1,4 @@
-### Hi, mi name is Miriam 👋
+### Hi, my name is Miriam 👋
 
 <!-- ![](https://komarev.com/ghpvc/?username=miriam-mendez&color=36b812) -->
 ![](https://img.shields.io/github/followers/miriam-mendez?style=social)
@@ -10,6 +10,7 @@
 
 ### Papers
 
+*  [Eurographics 2022 - Radiance-Based Blender Add-On for Physically Accurate Rendering of Cultural Heritage](https://diglib.eg.org/handle/10.2312/egp20231022)
 <!-- [![Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)](https://travis-ci.org/gitpoint/git-point) -->
 
 ### Projects [^1]
